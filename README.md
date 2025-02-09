@@ -29,3 +29,4 @@ Managing Student Data
 - Calculation of GPA and CGPA
 - I/O management with `cin` and `getline`
 - Knowledge about date objects
+- I/O Formatting
